@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "65368077690",
+    "project_id": "ar-paint-wall-app",
+    "storage_bucket": "ar-paint-wall-app.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:65368077690:android:71d5dc8767ee57456012c3",
+        "android_client_info": {
+          "package_name": "com.example.arpaintwallapp"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDODM_uL9cG7bueROQrH1k3TPxHPPJcc_M"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
